@@ -8,7 +8,7 @@ server.listen(port, () => {
     console.log(`Server listening at ${port}`);
 });
 
-server.get(['/api/ships', '/ships/:query'], (req, res) => {
+server.get(['/api/ships', '/api/ships/:query'], (req, res) => {
     const query = req.params.query;
 
     if (!query) {
