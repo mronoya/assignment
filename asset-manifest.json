@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.8008d301.chunk.css",
+    "main.js": "/assignment/static/js/main.981cc7e0.chunk.js",
+    "main.js.map": "/assignment/static/js/main.981cc7e0.chunk.js.map",
+    "runtime~main.js": "/assignment/static/js/runtime~main.bf340767.js",
+    "runtime~main.js.map": "/assignment/static/js/runtime~main.bf340767.js.map",
+    "static/js/2.73c129d7.chunk.js": "/assignment/static/js/2.73c129d7.chunk.js",
+    "static/js/2.73c129d7.chunk.js.map": "/assignment/static/js/2.73c129d7.chunk.js.map",
+    "index.html": "/assignment/index.html",
+    "precache-manifest.568ff54dae31d07280306ae8e51b0ae0.js": "/assignment/precache-manifest.568ff54dae31d07280306ae8e51b0ae0.js",
+    "service-worker.js": "/assignment/service-worker.js",
+    "static/css/main.8008d301.chunk.css.map": "/assignment/static/css/main.8008d301.chunk.css.map",
+    "static/media/cross.svg": "/assignment/static/media/cross.550eff99.svg",
+    "static/media/magnifying-glass.svg": "/assignment/static/media/magnifying-glass.12a3c00e.svg"
+  }
+}
