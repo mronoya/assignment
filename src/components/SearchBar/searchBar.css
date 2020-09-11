@@ -1,0 +1,41 @@
+.search-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  max-width: 275px;
+  max-height: 100px;
+  align-items: center;
+  border: 1px solid #333333;
+}
+
+input.search-bar {
+  border: none;
+  font-size: medium;
+  padding: 1em;
+  width: 100%;
+}
+
+button.search-btn {
+  background: none;
+  appearance: none;
+  border: none;
+  margin: 0 1em 0 0;
+}
+
+input:focus,
+button:focus {
+  outline: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li.results {
+  border: 1px solid #cccccc;
+  padding: 0.7em 1em;
+  margin: 1em 0;
+}
+
+p {
+  margin: 1em 0;
+}
